@@ -18,8 +18,6 @@ import Popover from "react-bootstrap/Popover";
 
 export const customPopover = (
   <Popover id="popover-basic">
-    {/*hello how are you
-    another commit*/}
     <Popover.Header as="h3">Address should only contain..</Popover.Header>
     <Popover.Body>
       <div>1). Alphabets Upper/Lower case</div>
